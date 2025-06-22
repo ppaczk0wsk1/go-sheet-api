@@ -12,7 +12,7 @@ Because I didn't want to install a database. And I love bad ideas that technical
 - ✅ Editable by non-devs (like your boss)
 - ✅ Feels illegal - but isn't
 
-## Real-Life Uses for Go Sheet DB (Weirdly Viable)
+## Real-Life Uses for Go Sheet API (Weirdly Viable)
 Despite being built on pure tech blasphemy, this API can work for small, chaotic, and oddly practical use cases:
 
 - Event RSVP Tracking (Without a Real Backend)
@@ -25,6 +25,4 @@ Despite being built on pure tech blasphemy, this API can work for small, chaotic
 
 ![SWAG to Sheet](https://github.com/user-attachments/assets/d7e325f6-b8a1-4ad2-b90f-02d08ea2c9af)
 
-Stay weird.
-Ship the chaos.
-Go write terrible software on purpose.
+
